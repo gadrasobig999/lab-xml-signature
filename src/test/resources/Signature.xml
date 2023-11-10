@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE 媒體封裝檔 SYSTEM "104_ermedia_utf8.dtd">
+<媒體封裝檔>
+	<Signature>
+		<SignedInfo>
+			<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+			<SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/>
+<Reference URI="MediaPackage.xml"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><DigestValue>deidPhKVidUdS506aRaFOhaZgV+BA+SrYJVczgbKq4Q=</DigestValue></Reference>			<Reference URI="#CheckEnveSignTime"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><DigestValue>FqzaaxGIj1z9yjdpn0Sg8/x+yej2PTTYoHW6th32g60=</DigestValue></Reference>
+			<Reference URI="604000000A\112=J3A02=0001\112=J3A02=0001=0001=001\1120000019\1120000019-enimg.xml"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><DigestValue>rAI+bGynRkXuca5R0CfWAx/ftUrNIPu+z/TklI1Vtcc=</DigestValue></Reference>
+			<Reference URI="604000000A\112=J5B04=0001\112=J5B04=0001=0001=001\1120000020\1120000020-enimg.xml"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><DigestValue>OziIrnIUwUMbzDXxQr2rJC/1J7iOKSdtjwKNwyS7Big=</DigestValue></Reference>
+			<Reference URI="604000000A\112=J3C03=0001\112=J3C03=0001=0001=001\1120000021\1120000021-enimg.xml"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><DigestValue>ASC6IFdmW+E/ZQlG5QxRXqcw3g2vsnBI28JolWzJrvk=</DigestValue></Reference>
+			<Reference URI="604000000A\112=M3B05=0001\112=M3B05=0001=A001=001\1120000022\1120000022-encap.xml"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><DigestValue>fQQsqC/obxbx0XEP+41cTtgrU6pXgTSpPpfOP1rONmM=</DigestValue></Reference>
+			<Reference URI="604000000A\112=M3B05=0001\112=M3B05=0001=A001=002\1120000023\1120000023-encap.xml"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><DigestValue>B9H0Zoi+SHMPOyOm47zt5D4gheYUKg1IYWsHxICEdEQ=</DigestValue></Reference>
+			<Reference URI="604000000A\112=M3B05=0001\112=M3B05=0001=A001=003\1120000025\1120000025-encap.xml"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><DigestValue>AEKy5sYpcHFZLsibg/ekc9ShKqD+JUjOgQ6Yh7vMk34=</DigestValue></Reference>
+			<Reference URI="604000000A\112=G3A07=0001\112=G3A07=0001=A001=001\1120000024\1120000024-encap.xml"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><DigestValue>E0G+XtNz11WPL2g397B12GXHIOOwLzALVqtqOmGumm0=</DigestValue></Reference>
+		</SignedInfo>
+		<SignatureValue>fKet446ekadqy6VKpKAw1IJarRRo98lUWcyy7khj6+qE7UA8VpVzK2FX8Nrwc/YgZj8KGhAL2A+l
+N64ost3MTS/jjJrveSiYSX+OgWgWECRXoliBQDhrJqhuNLAOQ+9ZPCTaANORs2aLbZ4DzplBxH7H
+jdS7X8nULZYbX1o9fZYa8fBPtVH/yjsIIxI6rC9AxWHKf7x8yeotpls3AheSWtmwcpRlmIAiAQcJ
+y4UbG0TM6hb6LWKmo/M8T+sfXD60+4mtaM00lY2ocqNDwUshS4ZG30mfOfLwtxin6FHLBOOTW7W7
+irATFdh2qNvcb9NwPGtIgBW0DUJ74ZKQxue0hA==</SignatureValue>
+		<KeyInfo>
+<X509Data><X509Certificate>MIIE/zCCA+egAwIBAgIRALkGm0ogHEiVjykrzxthX1kwDQYJKoZIhvcNAQELBQAwVjELMAkGA1UE
+BhMCVFcxEjAQBgNVBAoMCeihjOaUv+mZojEzMDEGA1UECwwqKOa4rOippueUqCkg5pS/5bqc5ris
+6Kmm5oaR6K2J566h55CG5Lit5b+DMB4XDTIzMDkwNzAxMjEyM1oXDTI0MDMwNzAxMjEyM1owOTEL
+MAkGA1UEBhMCVFcxEjAQBgNVBAcMCeiLl+agl+e4ozEWMBQGA1UECgwN5ris6Kmm5qmf6ZecMTCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKOiY+7wSPKyq46f4We7z1pojZptnwT9l2XS
+VA/TEbk6jLqggi6aJa5jkl3BQfokuqN8/ZpT/VLLJNnprvDcYb7Xjx8iP20gbGcAVzBYcD5I49JR
+WFBj85ePdDUSAbDkEOkPiARlkq+GIBggFeZQv2nbelSf54wjDfUiSWaWEwUJzem8rZWRCFI32nmY
+qH7O2CcXisGMjxbpgVO7WRDOfpj0fF7yVbW4UpdwAOh4YahL97UN7w8jQiSEyLCqIRvX0KIJw+qL
+y8/jzVmdmBdOWtC+4+1i6l/McULaW1LA0SE3ch4pBoIm6xC8OFqHkOqz2nI0Byk83KCEVSaBE6vY
+OqkCAwEAAaOCAeMwggHfMB8GA1UdIwQYMBaAFHev0GWH7h3IqfaXoCVHDsmV2nGrMB0GA1UdDgQW
+BBQQeBfsWYxodaUKOPQ8Gfdryic7RTAOBgNVHQ8BAf8EBAMCB4AwFAYDVR0gBA0wCzAJBgdghnZl
+AAMAMBoGA1UdEQQTMBGBD3Rlc3RAY2h0LmNvbS50dzBRBgNVHQkESjBIMBYGB2CGdgFkAgExCwYJ
+YIZ2AWQDAgEBMBQGB2CGdgFkAgIxCRMHcHJpbWFyeTAYBgdghnYBZAJmMQ0GC2CGdgFlhb8XgZwh
+MIGGBgNVHR8EfzB9MECgPqA8hjpodHRwOi8vZ3Rlc3RjYS5uYXQuZ292LnR3L2NybC9HVGVzdENB
+Mi84ODg4LTEvY29tcGxldGUuY3JsMDmgN6A1hjNodHRwOi8vZ3Rlc3RjYS5uYXQuZ292LnR3L2Ny
+bC9HVGVzdENBMi9jb21wbGV0ZS5jcmwwfwYIKwYBBQUHAQEEczBxMD4GCCsGAQUFBzAChjJodHRw
+Oi8vZ3Rlc3RjYS5uYXQuZ292LnR3L2NlcnRzL0lzc3VlZFRvVGhpc0NBLnA3YjAvBggrBgEFBQcw
+AYYjaHR0cDovL2d0ZXN0Y2EubmF0Lmdvdi50dy9PQ1NQL29jc3AwDQYJKoZIhvcNAQELBQADggEB
+AE5ibnTKhh4Ej3HRQ6U6evM5ydFPFHKw872iBvU2b+hQtLE3b6Qqy5trRsDa9tltaWMU/Ig9l1XY
+qMwESct8Q7zYiH+k9+1SehW7s6UUX55mw1tG3NkbMI9eFgqF1AQQ6DhWuToUfmT7DKQzIsb9xqZA
+rcVg1gwMbJ49gxdhxn1igi2NrSnTN33jbFOszVq8abyplHyE0ddtUF964e3v704sFw+HcFtJDCvy
+Rz39wsvdDNtrTh3odw8vEN4XyHCEKzmV1NYqwbg8FB9rAkQgiYvo7hDFaqFAyjvBjRIYbYjmjWNb
+sEDwNDuUt21R5eLiea4LkiVticVqxdlIHUqdov8=</X509Certificate></X509Data>		</KeyInfo>
+	</Signature>
+	<加簽時間 Id="CheckEnveSignTime">11210051045</加簽時間>
+</媒體封裝檔>

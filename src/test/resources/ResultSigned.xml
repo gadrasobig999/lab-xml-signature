@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><HelloWorld><Whatever>This is a simple demo</Whatever><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><Reference URI="http://localhost:8080/foo.txt"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><DigestValue>/N4rLtula/QIYB+3If6bXDONEO5CnqBPrlURto+/j7k=</DigestValue></Reference><Reference URI="http://localhost:8080/bar.txt"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><DigestValue>LCa0a2j/xo/5m0U8HTBBNBNCLXBkg7+g+YpeiGJm564=</DigestValue></Reference></SignedInfo><SignatureValue>Lgh5cCh5UPQ1cCRjIv5bXXc+b10msJhF4L50TDDCd6kmuBAkqJXiZYZ2v/Sk2nionauOHu5QCCEt&#13;
+4aZjDSVVyfqXj3YyNYzsjdJ0ZvlX3vxFpJtKNiQBGlAHwso2D4NpCICuZGgxOEUqH5G+3R6EClzP&#13;
+BDxTPI5TfWxm0NhnkFw/hRsXR9lzpEvpTT2SkIi0AI7NP6pV1WGwp6A5OXPObnvm3czOr/8d+X8M&#13;
+83J96+434QfAtwAOCnElJbvNtvjxei2kcG4wMHILHASCQgbF9UqVBYa2ijyyCB6Ch1urOiX9DToc&#13;
+QBJvhJh7dhqHYMFY+jBkbTIGincevk2qDHJfBQ==</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rQlisIxF2aSW7/rardxBCOoDFkuLPVQKzbfoOy/zEEzgKzwNDRjQeitvbNot+sszbdg7Zc2lMvav&#13;
+E8NAYg7ZY+A2SMx7p0gwBy1iL+HCWZA5N8EUgswqpLm2jekgRIrgbTTJX0KlQZHTvEMFHO29teEu&#13;
+NoI4VyNCnLPvreuYv2WbjPA+sObSAWlDJpU6HHiseEiyDZ/KVec2hIoqwhIp0De+n2iHVqzQgvfC&#13;
+IIQJVZtf2cRxrayzKwLXho+a6CiPeI9NZuu6i41rBJJHAfaVqqDyZxFEWlhRrvJ28SV4twdYPP+O&#13;
+YoF5+cHX3KYFpdhlYpdzisNOglWj13yrvi0how==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue></KeyInfo></Signature></HelloWorld>
